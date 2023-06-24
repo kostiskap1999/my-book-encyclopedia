@@ -1,8 +1,16 @@
 import React, { useState } from 'react'
-import './styles/HomePage.css'
+import '../styles/homePage.css'
 
 export default function HomePage() {
+  
+  const buttonPressed = () => {
+    console.log("test")
+  }
+
   return (
-    <div>Hi</div>
+    <div>
+      <span>Hi</span>
+      <button onClick={() => buttonPressed()}>Click me</button>
+    </div>
   )
 }
