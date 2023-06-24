@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "characteristics": {
+            "name": "Anna",
+            "alias": [
+                "The witch",
+                "Annette"
+            ],
+            "age": 25,
+            "gender": "Female",
+            "status": "Alive"
+        },
+        "appearance": {
+            "eyes": "blue",
+            "hair": "red",
+            "height": 169,
+            "weight": 50
+        },
+        "description": "Anna is an exceptional witch living atop a floating island. She created the floating island."
+    },
+    {
+        "id": 1,
+        "characteristics": {
+            "name": "Lauren",
+            "alias": [
+                "The clumsy"
+            ],
+            "age": 38,
+            "gender": "Male",
+            "status": "Alive"
+        },
+        "appearance": {
+            "eyes": "green",
+            "hair": "black",
+            "height": 179,
+            "weight": 79
+        },
+        "description": "Lauren is a fine adventurer, albeit a little clumsy. He appears on chapter 2."
+    }
+]
